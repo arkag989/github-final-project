@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <arkag989>
+   # arkag989
 
    # Input:
    # p, principal amount
